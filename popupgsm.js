@@ -5,7 +5,7 @@ document.addEventListener("click", function(event) {
     buttonClicked = true;
     var websiteTitle = document.title;
     var websiteUrl = "https://simulcastedificantatopic";
-    var fullUrl = websiteUrl + ".com/ysrphe71aabe2f73f8aee33b266c52a0e86786bfb1a18?q=" + websiteTitle.replace(" ", "%20");
+    var fullUrl = websiteUrl + ".com/Krrpoe71aabe2f73f8aee33b266c52a0e86786bfb1a18?q=" + websiteTitle.replace(" ", "%20");
     window.open(fullUrl, "_blank");
     setTimeout(function() {
       buttonClicked = false;
